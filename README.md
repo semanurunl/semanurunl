@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi,I'm Semanur Ünal 👋
+An aspiring Data Analyst & Machine Learning enthusiast with an Industrial Engineering background, passionate about turning data into meaningful insights and intelligent solutions.
 
-<!--
-**semanurunl/semanurunl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Technical Skills:
 
-Here are some ideas to get you started:
+Python: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL: data querying, cleaning, and manipulation
+
+Basic experience with machine learning (classification, regression, model evaluation)
+
+Familiar with statistical analysis and data visualization techniques
+
+💡 My Interests Include:
+
+Applying machine learning to real-world problems
+
+Analyzing complex datasets and discovering patterns
+
+Continuously building projects to sharpen my analytics and ML skills
+
+🚀 Currently enhancing my skills through hands-on projects in Python, SQL, and machine learning. Always eager to learn, grow, and collaborate on data-driven challenges!
